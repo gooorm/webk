@@ -1,0 +1,6 @@
+모르는거걍 다 여기다 적을게여
+
+
+
+makemigrations > 장고에게 모델 수정했음 알려줌
+migrate > db에 반영
