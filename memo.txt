@@ -4,3 +4,7 @@
 
 makemigrations > 장고에게 모델 수정했음 알려줌
 migrate > db에 반영
+python 이름.py makemigrations
+python 이름.py migrate
+
+python 이름.py runserver > server 실행 command
