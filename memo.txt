@@ -8,3 +8,4 @@ python 이름.py makemigrations
 python 이름.py migrate
 
 python 이름.py runserver > server 실행 command
+하고 http://127.0.0.1:8000/ ->서버가 열렸겠지요 ..
